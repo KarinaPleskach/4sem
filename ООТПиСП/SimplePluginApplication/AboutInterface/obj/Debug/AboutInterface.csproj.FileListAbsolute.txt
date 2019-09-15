@@ -1,0 +1,10 @@
+D:\VSProjects\SimplePluginApplication\AboutInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\VSProjects\SimplePluginApplication\SimplePluginApplication\bin\Debug\AboutInterface.dll
+D:\VSProjects\SimplePluginApplication\SimplePluginApplication\bin\Debug\AboutInterface.pdb
+D:\VSProjects\SimplePluginApplication\AboutInterface\obj\Debug\AboutInterface.dll
+D:\VSProjects\SimplePluginApplication\AboutInterface\obj\Debug\AboutInterface.pdb
+D:\учеба\4 семестр\ООТПиСП\SimplePluginApplication\SimplePluginApplication\bin\Debug\AboutInterface.dll
+D:\учеба\4 семестр\ООТПиСП\SimplePluginApplication\SimplePluginApplication\bin\Debug\AboutInterface.pdb
+D:\учеба\4 семестр\ООТПиСП\SimplePluginApplication\AboutInterface\obj\Debug\AboutInterface.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\ООТПиСП\SimplePluginApplication\AboutInterface\obj\Debug\AboutInterface.dll
+D:\учеба\4 семестр\ООТПиСП\SimplePluginApplication\AboutInterface\obj\Debug\AboutInterface.pdb

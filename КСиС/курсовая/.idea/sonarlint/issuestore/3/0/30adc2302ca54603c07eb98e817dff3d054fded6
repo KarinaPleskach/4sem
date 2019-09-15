@@ -1,0 +1,26 @@
+
+isquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(÷–¨8þ¢úî°-
+ysquid:S00115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ç©™õ8þ¢úî°-
+isquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ØÃòÆ8þ¢úî°-
+ysquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÏáüÈ8þ¢úî°-
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8þ¢úî°-
+?squid:S1643%"Use a StringBuilder instead.(¤ÅÇµøÿÿÿÿ8þ¢úî°-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùôð»8þ¢úî°-
+jsquid:S20954"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ýÿÿÿÿ8þ¢úî°-
+jsquid:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ýÿÿÿÿ8þ¢úî°-
+nsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(ÏñÉ‰ûÿÿÿÿ8þ¢úî°-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶¾Ù¬8ÿ§Ñ¢±-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÂÞ^8ÅÿÈ¢±-
+>squid:S2068" Remove this hard-coded password.(“ä²ˆ8é±È¢±-
+?squid:S1643&"Use a StringBuilder instead.(œý»‰ýÿÿÿÿ8þ¢úî°-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€ËŠ‰8ý³É¢±-
+Fsquid:S11488"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8þ¢úî°-
+isquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(ÈÃÖ8þ¢úî°-
+g"squid:ObjectFinalizeOverridenCheck="-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8þ¢úî°-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü×Ñ²8þ¢úî°-
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8þ¢úî°-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ö³æøÿÿÿÿ8þ¢úî°-
+isquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(Ó‹ûî8þ¢úî°-
+esquid:S2095!"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¾€¼Ž8þ¢úî°-

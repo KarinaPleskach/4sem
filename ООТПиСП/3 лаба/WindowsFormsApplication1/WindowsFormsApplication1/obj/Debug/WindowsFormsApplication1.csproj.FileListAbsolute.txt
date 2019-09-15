@@ -1,0 +1,21 @@
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\учеба\4 семестр\ООТПиСП\егорка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewCar.resources
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NewCar.resources
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CarInterface.pdb

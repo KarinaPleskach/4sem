@@ -1,0 +1,18 @@
+﻿Сборка начата 18.02.2019 11:52:31.
+     1>Проект "D:\учеба\4 семестр\КСиС\rehjfdkrh\rehjfdkrh\rehjfdkrh.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\rehjfdkrh.unsuccessfulbuild".
+       ClCompile:
+         d:\учеба\3 семестр\ЯП\visual studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt hgbgv.cpp
+         hgbgv.cpp
+     1>d:\учеба\4 семестр\ксис\rehjfdkrh\rehjfdkrh\hgbgv.cpp(113): warning C4700: использована неинициализированная локальная переменная "lpnrLocal"
+       Link:
+         d:\учеба\3 семестр\ЯП\visual studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\учеба\4 семестр\КСиС\rehjfdkrh\Debug\rehjfdkrh.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\rehjfdkrh.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\учеба\4 семестр\КСиС\rehjfdkrh\Debug\rehjfdkrh.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\учеба\4 семестр\КСиС\rehjfdkrh\Debug\rehjfdkrh.lib" /MACHINE:X86 Debug\hgbgv.obj
+     1>hgbgv.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции ___tmainCRTStartup
+     1>D:\учеба\4 семестр\КСиС\rehjfdkrh\Debug\rehjfdkrh.exe : fatal error LNK1120: 1 неразрешенных внешних элементов
+     1>Построение проекта "D:\учеба\4 семестр\КСиС\rehjfdkrh\rehjfdkrh\rehjfdkrh.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:02.64

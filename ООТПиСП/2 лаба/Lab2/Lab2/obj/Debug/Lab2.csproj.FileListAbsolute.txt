@@ -1,0 +1,9 @@
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\учеба\4 семестр\ООТПиСП\2 лаба\Lab2\Lab2\obj\Debug\Lab2.pdb

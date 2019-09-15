@@ -1,0 +1,5 @@
+D:\учеба\4 семестр\ООТПиСП\декоратор\03_DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.exe
+D:\учеба\4 семестр\ООТПиСП\декоратор\03_DecoratorSample\DecoratorSample\bin\Debug\DecoratorSample.pdb
+D:\учеба\4 семестр\ООТПиСП\декоратор\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\ООТПиСП\декоратор\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.exe
+D:\учеба\4 семестр\ООТПиСП\декоратор\03_DecoratorSample\DecoratorSample\obj\x86\Debug\DecoratorSample.pdb

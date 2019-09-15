@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BigChat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BigChat_jar</output-path>
+    <root id="archive" name="BigChat.jar">
+      <element id="module-output" name="BigChat" />
+    </root>
+  </artifact>
+</component>

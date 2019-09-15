@@ -1,0 +1,9 @@
+
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ôÁüî°-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¨¹®œ8ôÁüî°-
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ôÁüî°-
+Xsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ôÁüî°-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ôÁüî°-
+Msquid:S00108#")Either remove or fill this block of code.(¿Î”Ìúÿÿÿÿ8ôÁüî°-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùôğ»8ôÁüî°-

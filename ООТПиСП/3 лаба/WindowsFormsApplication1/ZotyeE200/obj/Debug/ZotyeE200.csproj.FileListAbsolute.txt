@@ -1,0 +1,7 @@
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZotyeE200.dll
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZotyeE200.pdb
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\ZotyeE200\obj\Debug\ZotyeE200.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\ZotyeE200\obj\Debug\ZotyeE200.Form1.resources
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\ZotyeE200\obj\Debug\ZotyeE200.csproj.GenerateResource.Cache
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\ZotyeE200\obj\Debug\ZotyeE200.dll
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\ZotyeE200\obj\Debug\ZotyeE200.pdb

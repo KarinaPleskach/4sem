@@ -1,0 +1,5 @@
+D:\VSProjects\SimplePluginApplication\SimplePluginApplication\bin\Debug\AboutLibrary.dll
+D:\VSProjects\SimplePluginApplication\SimplePluginApplication\bin\Debug\AboutLibrary.pdb
+D:\VSProjects\SimplePluginApplication\AboutLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\VSProjects\SimplePluginApplication\AboutLibrary\obj\Debug\AboutLibrary.dll
+D:\VSProjects\SimplePluginApplication\AboutLibrary\obj\Debug\AboutLibrary.pdb

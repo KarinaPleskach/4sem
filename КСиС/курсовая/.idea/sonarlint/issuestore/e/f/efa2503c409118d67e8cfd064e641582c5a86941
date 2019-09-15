@@ -1,0 +1,7 @@
+
+Msquid:S00108")Either remove or fill this block of code.(¿Î”Ìúÿÿÿÿ8Àžüî°-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Àžüî°-
+isquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(®ûºöÿÿÿÿÿ8Àžüî°-
+Msquid:S00108")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ8Àžüî°-
+g"squid:ObjectFinalizeOverridenCheck#"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8Àžüî°-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùôð»8Àžüî°-

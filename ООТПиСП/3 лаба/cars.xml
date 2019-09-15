@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<CarList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CarArray>
+    <CarObject xsi:type="PeelP50">
+      <NumberOfWheels>3</NumberOfWheels>
+      <MaxSpeed>60</MaxSpeed>
+      <CarBrand>Peel</CarBrand>
+      <FuelType>petrol</FuelType>
+    </CarObject>
+    <CarObject xsi:type="Audi">
+      <NumberOfWheels>4</NumberOfWheels>
+      <MaxSpeed>300</MaxSpeed>
+      <CarBrand>Audi</CarBrand>
+      <FuelType>petrol</FuelType>
+    </CarObject>
+    <CarObject xsi:type="Nissan">
+      <NumberOfWheels>4</NumberOfWheels>
+      <MaxSpeed>120</MaxSpeed>
+      <CarBrand>nissan</CarBrand>
+      <FuelType>diesel</FuelType>
+    </CarObject>
+    <CarObject xsi:type="Tesla">
+      <NumberOfWheels>1</NumberOfWheels>
+      <MaxSpeed>525</MaxSpeed>
+      <CarBrand>tesla</CarBrand>
+      <FuelType>electricity</FuelType>
+    </CarObject>
+  </CarArray>
+</CarList>

@@ -1,0 +1,238 @@
+﻿Сборка начата 16.02.2019 14:52:43.
+     1>Проект "D:\учеба\4 семестр\КСиС\KSiS1\KSiS1\KSiS1.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\KSiS1.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         d:\учеба\3 семестр\ЯП\visual studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\KSiS1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt KSiS1.cpp
+         KSiS1.cpp
+     1>d:\учеба\4 семестр\ксис\ksis1\ksis1\ksis1.cpp(2): warning C4627: #include <windows.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "StdAfx.h" или перестройка предкомпилированного заголовка
+     1>d:\учеба\4 семестр\ксис\ksis1\ksis1\ksis1.cpp(4): warning C4627: #include <wincon.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "StdAfx.h" или перестройка предкомпилированного заголовка
+     1>d:\учеба\4 семестр\ксис\ksis1\ksis1\ksis1.cpp(6): warning C4627: #include <stdlib.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "StdAfx.h" или перестройка предкомпилированного заголовка
+     1>d:\учеба\4 семестр\ксис\ksis1\ksis1\ksis1.cpp(10): warning C4627: #include <time.h>: пропущен при поиске использования предкомпилированного заголовка
+                 Добавление директивы в "StdAfx.h" или перестройка предкомпилированного заголовка
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_command"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(41): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(41): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_retcode"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(42): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(42): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(43): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_lsn"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(43): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(43): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(44): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_num"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(44): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(44): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_buffer"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(45): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(45): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_length"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(46): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(46): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(47): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_callname"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(47): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(47): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(48): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_name"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(48): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(48): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(49): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_rto"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(49): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(49): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(50): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_sto"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(50): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(50): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(51): error C2143: синтаксическая ошибка: отсутствие ")" перед "*"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(51): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(51): error C2182: CALLBACK: недопустимое использование типа "void"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(51): error C2059: синтаксическая ошибка: )
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(51): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(51): warning C4183: ncb_post: отсутствие возвращаемого типа; предполагается функция-член, возвращающая "int"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(52): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_lana_num"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(52): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(52): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(53): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_cmd_cplt"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(53): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(53): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(57): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_reserve"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(57): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(57): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(59): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb_event"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(59): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(59): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(71): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "adapter_address"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(71): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(71): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(72): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rev_major"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(72): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(72): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(73): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "reserved0"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(73): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(73): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(74): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "adapter_type"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(74): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(74): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(75): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rev_minor"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(75): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(75): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(76): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "duration"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(76): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(76): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(77): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "frmr_recv"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(77): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(77): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(78): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "frmr_xmit"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(78): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(78): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(80): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "iframe_recv_err"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(80): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(80): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(82): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "xmit_aborts"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(82): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(82): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(83): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "xmit_success"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(83): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(83): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(84): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "recv_success"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(84): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(84): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(86): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "iframe_xmit_err"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(86): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(86): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(88): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "recv_buff_unavail"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(88): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(88): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(89): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "t1_timeouts"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(89): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(89): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(90): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ti_timeouts"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(90): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(90): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(91): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "reserved1"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(91): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(91): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(92): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "free_ncbs"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(92): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(92): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(93): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "max_cfg_ncbs"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(93): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(93): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(94): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "max_ncbs"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(94): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(94): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(95): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "xmit_buf_unavail"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(95): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(95): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(96): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "max_dgram_size"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(96): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(96): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(97): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pending_sess"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(97): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(97): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(98): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "max_cfg_sess"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(98): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(98): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(99): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "max_sess"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(99): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(99): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(100): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "max_sess_pkt_size"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(100): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(100): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(101): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name_count"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(101): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(101): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(105): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(105): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(105): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(106): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name_num"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(106): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(106): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(107): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "name_flags"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(107): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(107): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(131): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sess_name"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(131): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(131): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(132): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "num_sess"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(132): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(132): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(133): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rcv_dg_outstanding"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(133): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(133): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(134): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rcv_any_outstanding"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(134): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(134): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(138): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lsn"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(138): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(138): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(139): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "state"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(139): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(139): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(140): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "local_name"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(140): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(140): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(141): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "remote_name"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(141): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(141): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(142): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rcvs_outstanding"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(142): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(142): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(143): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sends_outstanding"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(143): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(143): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(163): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "length"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(163): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(163): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(164): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lana"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(164): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(164): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(173): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "node_count"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(173): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(173): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(174): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "reserved"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(174): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(174): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(175): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "unique_group"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(175): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(175): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(179): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "length"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(179): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(179): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(180): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "access_control"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(180): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(180): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(181): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "frame_control"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(181): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(181): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(182): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "destination_addr"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(182): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(182): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(183): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "source_addr"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(183): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(183): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(184): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "routing_info"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(184): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(184): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(193): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "transport_id"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(193): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(193): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(194): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "action_code"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(194): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(194): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(195): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "reserved"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(195): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(195): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(299): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "APIENTRY"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(299): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(299): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Netbios"
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(299): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\nb30.h(301): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>d:\учеба\4 семестр\ксис\ksis1\ksis1\ksis1.cpp(20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "uRetCode"
+     1>d:\учеба\4 семестр\ксис\ksis1\ksis1\ksis1.cpp(20): error C2065: uRetCode: необъявленный идентификатор
+     1>Построение проекта "D:\учеба\4 семестр\КСиС\KSiS1\KSiS1\KSiS1.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.34

@@ -1,0 +1,7 @@
+C:\Users\Xiaomi\source\repos\KSiS_Lb1.2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Xiaomi\source\repos\KSiS_Lb1.2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Xiaomi\source\repos\KSiS_Lb1.2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Xiaomi\source\repos\KSiS_Lb1.2\ConsoleApp3\obj\Debug\KSiS_Lb_1.2.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\KSiS_Lb1.2\ConsoleApp3\obj\Debug\KSiS_Lb_1.2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\KSiS_Lb1.2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Xiaomi\source\repos\KSiS_Lb1.2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

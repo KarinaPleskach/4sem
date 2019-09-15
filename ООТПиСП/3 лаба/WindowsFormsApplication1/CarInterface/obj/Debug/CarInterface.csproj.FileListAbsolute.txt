@@ -1,0 +1,5 @@
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CarInterface.dll
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CarInterface.pdb
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\CarInterface\obj\Debug\CarInterface.dll
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\CarInterface\obj\Debug\CarInterface.pdb
+D:\учеба\4 семестр\ООТПиСП\3 лаба\WindowsFormsApplication1\CarInterface\obj\Debug\CarInterface.csprojResolveAssemblyReference.cache
